@@ -24,10 +24,6 @@ yarn watch
 ```
 ### Easy magento commands
 
-Deploy mode set Production
-```
-yarn production
-```
 Deploy mode set Developer
 ```
 yarn developer
