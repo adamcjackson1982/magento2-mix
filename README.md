@@ -50,4 +50,4 @@ yarn deploy
 ```
 
 ### Watch the full tutorial here
-See [Youtube]([https://youtu.be/Rv3QOwjGaFs](https://youtu.be/Zew4dZISB5g)).
+See [Youtube]([https://youtu.be/Rv3QOwjGaFs]).
