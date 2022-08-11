@@ -47,3 +47,7 @@ yarn deploy
 
 ### Watch the full tutorial here
 See https://youtu.be/Zew4dZISB5g
+
+Compatible theme setup
+See https://youtu.be/Rv3QOwjGaFs
+
