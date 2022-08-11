@@ -1,8 +1,7 @@
 # magento2-mix
 Webpack Mix for Magento 2
 
-1. Simply put this file along with the package.json in the root of you Magento
-2. make the neccessary changes to 
+Simply put this file along with the package.json in the root of you Magento
 
 ## Project setup
 ```
@@ -51,4 +50,4 @@ yarn deploy
 ```
 
 ### Watch the full tutorial here
-See [Youtube](https://youtu.be/Rv3QOwjGaFs).
+See [Youtube]([https://youtu.be/Rv3QOwjGaFs](https://youtu.be/Zew4dZISB5g)).
