@@ -29,7 +29,8 @@
 		"developer": "php bin/magento deploy:mode:set developer",
 		"clean": "php bin/magento cache:clean",
 		"deploy": "php bin/magento setup:static-content:deploy -f",
-		"flush": "php bin/magento cache:flush"
+		"flush": "php bin/magento cache:flush",
+		"index": "php bin/magento indexer:reindex"
 	},
 	"dependencies": {
 		"bootstrap": "^5.2.0"
