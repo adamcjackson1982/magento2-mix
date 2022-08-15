@@ -14,12 +14,16 @@ let themes = [
 
 //Themes
 themes.forEach(element => {
-	mix.sass('app/design/frontend/'+element.folder+'/web/scss/styles.scss', 'app/design/frontend/'+element.folder+'/web/css/styles.css');
+	mix.sass('app/design/frontend/'+element.folder+'/web/scss/styles.scss', 'app/design/frontend/'+element.folder+'/web/css/styles.css', {
+		processUrls: false
+	});
 })
 
 //Modules
 modules.forEach(element => {
-	mix.sass('app/code/' + element.folder + '/view/frontend/web/scss/styles.scss', 'app/code/' + element.folder + '/view/frontend/web/css')
+	mix.sass('app/code/' + element.folder + '/view/frontend/web/scss/styles.scss', 'app/code/' + element.folder + '/view/frontend/web/css', {
+		processUrls: false
+	})
 })
 mix.sourceMaps(false, 'source-map')
 
