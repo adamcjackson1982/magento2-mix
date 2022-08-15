@@ -44,6 +44,10 @@ Deploy Magento Static Content
 ```
 yarn deploy
 ```
+Reindex
+```
+yarn index
+```
 
 ### Watch the full tutorial here
 See https://youtu.be/Zew4dZISB5g
